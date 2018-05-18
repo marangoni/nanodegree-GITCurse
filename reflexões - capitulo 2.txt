@@ -1,0 +1,9 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+São criados os arquivos para controle de versão. Para controlar a versão.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório?
+Qual valor você acha que ela oferece?
+
+O repositorio contém os arquivos de trabalho. A área de preparação contém arquivos já modificados
+para organização lógica dos commits
