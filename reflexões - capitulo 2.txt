@@ -6,4 +6,12 @@ Em que se difere a área de preparação do diretório de trabalho e do repositório?
 Qual valor você acha que ela oferece?
 
 O repositorio contém os arquivos de trabalho. A área de preparação contém arquivos já modificados
-para organização lógica dos commits
+para organização lógica dos commits.
+
+Como você pode usar a área de preparação para garantir que tenha
+um commit por alteração lógica?
+Organizando os arquivos na área de preparação para realização de commits lógicos.
+
+Quais são algumas das situações em que branches seriam úteis
+para manter seu histórico organizado? Como branches ajudariam?
+Para testar novas funcionalidades

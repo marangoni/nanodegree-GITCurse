@@ -1,1 +1,6 @@
 Afinal, para que servem os commits? Copiar o repensado antigo, ou repensar o antigo novo paradigma?
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar 
+o Git atualizar-se automaticamente com o seu repositório remoto?
+
+Para ter controle sobre as versões locais dos arquivos que estou trabalhando
